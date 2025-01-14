@@ -1,5 +1,5 @@
-# CDResub- Corpus Collection
-Final Submission of Assignment 2 for Collecting Data involving the use of spacy and pandas for data processing and analysis.
+# CD Final Assignment - Corpus Collection
+Resubmission of Assignment 2 for Collecting Data involving the use of spacy and pandas for data processing and analysis.
 
 ## Project Description
 Data collection and processing with spaCy and pandas for the purpose of lyrical (textual) analysis. <br>
